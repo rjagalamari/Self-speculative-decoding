@@ -100,7 +100,3 @@ fixed number of slots until they time out and score as failures.
 
 The server's acceptance counters accumulate from process start and never reset,
 so restart the server between benchmarks to keep per-benchmark numbers separate.
-
-## License
-
-BSD 3-Clause. See [LICENSE](LICENSE).
