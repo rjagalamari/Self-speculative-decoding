@@ -100,3 +100,12 @@ fixed number of slots until they time out and score as failures.
 
 The server's acceptance counters accumulate from process start and never reset,
 so restart the server between benchmarks to keep per-benchmark numbers separate.
+
+## Acknowledgments
+
+This project builds upon:
+
+- I-DLM (Introspective Diffusion Language Model) as the baseline
+- LLaMA-Factory for training
+- SDAR for model architecture
+- SGLang for inference and serving
