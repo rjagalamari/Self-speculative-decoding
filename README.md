@@ -1,4 +1,4 @@
-# Self-Speculative Decoding
+# Speculative Relay
 
 Improving generation speed and quality in hybrid autoregressive–diffusion
 language models.

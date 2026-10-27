@@ -1,4 +1,4 @@
-# I-DLM Inference
+# Speculative Relay Inference
 
 Serving system for I-DLM with Introspective Strided Decoding (ISD), built on [SGLang](https://github.com/sgl-project/sglang). Supports CUDA graphs, continuous batching, paged KV cache, and OpenAI-compatible API.
 

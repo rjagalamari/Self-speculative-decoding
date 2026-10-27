@@ -1,4 +1,4 @@
-# Training
+# Speculative Relay Training
 
 This directory contains the training code for I-DLM, built on a modified [LlamaFactory](https://github.com/hiyouga/LLaMA-Factory) framework and [SDAR](https://github.com/JetAstra/SDAR) codebase.
 
